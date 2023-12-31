@@ -33,5 +33,5 @@ Adapun tools yang digunakan dalam analisis berupa:
 
 # Dashboard PT Sejahtera Bersama
 
-https://lookerstudio.google.com/s/mJN9vgJSU-4
+https://lookerstudio.google.com/reporting/aa9ecf4b-046d-4928-b00a-3f8cd1e55a79
 
