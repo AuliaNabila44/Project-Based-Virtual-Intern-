@@ -1,4 +1,4 @@
-# Project-Based-Virtual-Intern-
+# Project-Based-Virtual-Intern- Bank Muamalat X Rakamin Academy
 Pada project ini menggunakan case study berupa transaksi detail PT Sejahtera Bersama dalam project virtual intern Bank Muamalat X Rakamin Academy. Project ini menggunakan empat table dalam analisis, yaitu:
 1. Table Customers
 2. Table Products
