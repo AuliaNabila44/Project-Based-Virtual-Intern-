@@ -32,5 +32,6 @@ Adapun tools yang digunakan dalam analisis berupa:
 7.  Memberikan usulan atau saran kepada PT Sejahtera Bersama untuk mempertahankan      penjualan atau menaikan penjualan berdasarkan data transaksi.
 
 #Dashboard PT Sejahtera Bersama
+
 https://lookerstudio.google.com/s/mJN9vgJSU-4
 
